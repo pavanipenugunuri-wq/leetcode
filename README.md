@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/pavanipenugunuri-wq/leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/pavanipenugunuri-wq/leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -12,6 +13,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/pavanipenugunuri-wq/leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/pavanipenugunuri-wq/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
